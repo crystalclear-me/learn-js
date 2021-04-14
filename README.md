@@ -5,3 +5,7 @@ xxxxx
 ## Map funtion
 
 xxx
+
+## reduce function
+
+xxxx
